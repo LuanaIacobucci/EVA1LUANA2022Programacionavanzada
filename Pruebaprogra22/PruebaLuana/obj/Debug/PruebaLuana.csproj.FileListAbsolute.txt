@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\bin\Debug\PruebaLuana.exe.config
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\bin\Debug\PruebaLuana.exe
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\bin\Debug\PruebaLuana.pdb
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\obj\Debug\PruebaLuana.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\obj\Debug\PruebaLuana.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\obj\Debug\PruebaLuana.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\obj\Debug\PruebaLuana.exe
+C:\Users\HP\Documents\Pruebaprogra22\PruebaLuana\obj\Debug\PruebaLuana.pdb
